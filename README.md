@@ -12,3 +12,6 @@ Matej Samardziev
    2. F T X
    3. F F T
    4. F F F
+
+
+7. Za pishuvanje na unit testovite najprvin za every branch testiranjeto go koristev excel tabelata za da gi napisham testovite i da gi pokrijam site pateki. No toa shto CFGTo ne pokazhuva e na kraj ako se stigne do return same==0, moze da vrati true i false vo zavisnost od toa dali se zgolemil same vo funkcijata. Poradi shto jas napraviv testovi kade shto zavrshuva odnosno ochekuva same==0 (True) i isto taka kade shto same !=0 (False) kako I da se so testovite shto se napishani pokrieni se site pateki i site linii kod vo funkcijata
